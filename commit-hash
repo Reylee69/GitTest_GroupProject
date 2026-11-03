@@ -1,0 +1,75 @@
+[33mcommit 46c2cc859c102e1d2fe016fdca992227af2fc741[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Reylee69 <jreyesr@GMU.EDU>
+Date:   Mon Nov 2 20:40:58 2026 -0500
+
+    ...
+
+[33mcommit 2c486c2d857951a76ac41732d4b2d0a0a8b1afb4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 22cc3b5 13a0ca2
+Author: kphill25-gmu <kphill25@gmu.edu>
+Date:   Mon Nov 2 16:13:23 2026 -0500
+
+    Merge pull request #3 from Reylee69/Kweli-Poses-Practice
+    
+    pull request test
+
+[33mcommit 13a0ca2f5db2b23bf579851bc36ce27d2bbac90a[m
+Author: kphill25-gmu <kphill25@gmu.edu>
+Date:   Mon Nov 2 16:11:01 2026 -0500
+
+    poses
+
+[33mcommit 22cc3b5d2c143ff51e9761f8710dcf6fa98601dd[m
+Merge: 7ab9828 2e1ba20
+Author: Reylee69 <jreyesr@GMU.EDU>
+Date:   Mon Nov 2 15:50:59 2026 -0500
+
+    Merge pull request #1 from Reylee69/crisdeth_light_sound
+    
+    Update lighting and added post processing volume
+
+[33mcommit 6c1715f009442aa3b1ff9f76091d73d1c9fa77ba[m
+Author: kphill25-gmu <kphill25@gmu.edu>
+Date:   Mon Nov 2 15:43:28 2026 -0500
+
+    two-characters-poses
+
+[33mcommit 7f1c7e5688f46ce1a8d8b87d64da1d85b3235f2a[m
+Author: kphill25-gmu <kphill25@gmu.edu>
+Date:   Mon Nov 2 15:40:36 2026 -0500
+
+    Create Pose.uasset
+
+[33mcommit 2e1ba20430c20bd1ae6729e9e4cd440fa6e7c09a[m[33m ([m[1;31morigin/crisdeth_light_sound[m[33m)[m
+Author: Crisdeth <cg45355@email.vccs.edu>
+Date:   Sun Nov 1 17:47:44 2026 -0500
+
+    Update lighting and added post processing volume
+    
+    -Moved the directional lighting
+    -Added a post processing volume with infinite bound
+    -Changed some of the setting for directional light, expontential height fog, and volmetric cloud
+
+[33mcommit 034d258f0eb302319afa694d05654460954d7bab[m
+Author: kphill25-gmu <kphill25@gmu.edu>
+Date:   Sat Oct 31 15:49:00 2026 -0400
+
+    Update Ritual.umap
+
+[33mcommit ad9600677568e9c26b3e11c04522c96479cfe03a[m
+Author: kphill25-gmu <kphill25@gmu.edu>
+Date:   Sat Oct 31 15:48:22 2026 -0400
+
+    Create Ritual.umap
+
+[33mcommit 7ab98286d4f78a616b250f8a04f055c47cbf5bbf[m
+Author: Reylee69 <jreyesr@GMU.EDU>
+Date:   Wed Oct 28 16:14:00 2026 -0400
+
+    Project
+
+[33mcommit 1bfa25d3bbc30875786ac4876fc21f6ec42dd8e5[m
+Author: Reylee69 <jreyesr@GMU.EDU>
+Date:   Wed Oct 28 16:05:32 2026 -0400
+
+    Initial commit
